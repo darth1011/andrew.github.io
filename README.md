@@ -22,7 +22,7 @@ My long-term goal is to pursue **research in robotics and AI**, contribute to **
 ---
 
 ## Portfolio
-Visit my live site → [**andrew-guda.github.io**](https://darth1011.github.io)  
+Visit my live site → [**darth1011/andrew.github.io**](https://darth1011/andrew.github.io)  
 
 ---
 
