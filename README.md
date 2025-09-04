@@ -14,8 +14,10 @@ American International University – Bangladesh (AIUB), CGPA: **3.98/4.00**
 ---
 
 ## About Me
-I enjoy building and exploring anything related to **electronics**.  
-I’m also an **audio enthusiast**, passionate about modifying amplifiers and restoring 70s and 80s era stereo systems to their former glory.  
+Still under construction, it's a **process**. No **pivoting** necessary ;) 
+Enjoy building and exploring anything related to **electronics**.  
+**Audio enthusiast**, passionate about modifying amplifiers and restoring 70s and 80s era stereo systems to their former glory.
+PC Gamer since 2002.
 
 My long-term goal is to pursue **research in robotics and AI**, contribute to **cutting-edge R&D**, and eventually establish my own **technology startup**.  
 
